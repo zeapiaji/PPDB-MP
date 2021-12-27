@@ -8,11 +8,11 @@
       <div class="col-lg-3 col-md-6 footer-contact">
         <h3>OnePage</h3>
         <p>
-          A108 Adam Street <br>
-          New York, NY 535022<br>
-          United States <br><br>
-          <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@example.com<br>
+          Kampung Pesantren<br>
+          Sukamukti, Kec. Katapang<br>
+          Kabupaten Bandung <br><br>
+          <strong>Telepon:</strong> 0895-6304-68373<br>
+          <strong>Email:</strong> smkmahaputracerdasutama@gmail.com<br>
         </p>
       </div>
 
